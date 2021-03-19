@@ -1,4 +1,7 @@
-### Hi there 👋
+Sou Alexandre Nunes, estou no 5 semestre de Ciencia da Computação na Unifacs.
+Atualmente conheço Python por um curso que fiz no Corsera, SQL que bastante pratiquei na faculdade. E estou estudando javascript e nodeJs.
+Durante meu segundo semestre eu foi treeine da PraxisJr mas nao continuei pois nao estava capacitado para a vaga. Durante o meu periodo la eu aprendi o basico de HTML, CSS e bootstrap
+Contato: xandenunes302@gmail.com
 
 <!--
 **xandenunes/xandenunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
