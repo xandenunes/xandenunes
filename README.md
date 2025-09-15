@@ -6,7 +6,7 @@ Recently, I have been working as an outsourced employee at [TJBA](https://www.tj
 
 
 ### 💻 Some cool projects I did:
-- [](https://github.com/xandenunes/TaskFlow): this project was done to inform myself and update myself on the new versions of java. this was done with objective of creating a block of notes.That could eventually be uploaded onto the cloud
+- [TaskFlow](https://github.com/xandenunes/TaskFlow): this project was done to inform myself and update myself on the new versions of java. this was done with objective of creating a block of notes.That could eventually be uploaded onto the cloud
 
 ### ✉️ How to reach me:
 - Email: xandenunes302@gmail.com
